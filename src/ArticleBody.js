@@ -9,7 +9,7 @@ class ArticleBody extends Component {
         return (
           <div className="large-8 medium-12 columns article">
             <h2 className="article-title">Gold Madness - Fact or Fiction?</h2>
-            <Author />
+            <Author/>
 
             <ArticleInfo />
 
